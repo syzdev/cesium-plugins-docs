@@ -32,6 +32,7 @@ module.exports = {
             {
               title: 'Plugins',
               collapsable: false,
+              sidebarDepth: 0,
               children: [
                 'PositionPicker',
                 'Cesium3DTilesLoader',
@@ -63,6 +64,7 @@ module.exports = {
             {
               title: 'API',
               collapsable: false,
+              sidebarDepth: 0,
               children: [
                 'PositionPicker',
                 'Cesium3DTilesLoader',

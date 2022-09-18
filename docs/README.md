@@ -2,7 +2,7 @@
 home: true
 heroImage: /assets/logo.png
 heroText: cesium-plugins
-tagline: Plugins for improving the availability of Cesium.
+tagline: Plugins for improving the availability of Cesium
 actionText: Getting Started →
 actionLink: /docs/quick-start/
 # features:

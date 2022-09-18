@@ -27,7 +27,7 @@ import { PositionPicker } from 'cesium-plugins'
 const flood = new FloodAnalysis(Cesium, viewer, pos, floodOpts)
 ```
 
-The configuration example of `pos` is as follows:
+The configuration example of `pos` are as follows:
 
 ```javascript
 const pos = [

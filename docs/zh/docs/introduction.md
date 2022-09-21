@@ -15,3 +15,5 @@
 - [FloodAnalysis](https://syzdev.cn/cesium-plugins-docs/zh/docs/FloodAnalysis.html)：用于模拟淹没分析的工具类。
 
 - [RotateAroundPoint](https://syzdev.cn/cesium-plugins-docs/zh/docs/RotateAroundPoint.html)：用于相机绕点旋转的工具类。
+
+- [WaterMask](https://syzdev.cn/cesium-plugins-docs/zh/docs/WaterMask.html)：用于创建动态水面的工具类。

@@ -5,5 +5,5 @@ heroText: cesium-plugins
 tagline: Plugins for improving the availability of Cesium
 actionText: Getting Started →
 actionLink: /docs/quick-start/
-footer: MIT Licensed | Copyright © 2021-present syzdev
+footer: MIT Licensed | Copyright © 2022-present syzdev
 ---

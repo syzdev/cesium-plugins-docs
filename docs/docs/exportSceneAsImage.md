@@ -8,6 +8,7 @@ Live Demo: [exportSceneAsImage](https://syzdev.cn/cesium-plugins/example/exportS
 | ---------- | -------- | ------------------------------- | ----------------------------------- |
 | `viewer`   | `Object` |                                 | Initialize `viewer` of Cesium scene |
 | `fileName` | `String` | `Scene-${new Date().getTime()}` | File name to be exported            |
+| `fileType` | `String` | `png` | File type to be exported            |
 
 ```javascript
 import { exportSceneAsImage } from 'cesium-plugins'

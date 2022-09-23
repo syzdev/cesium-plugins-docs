@@ -8,6 +8,7 @@
 | ---------- | -------- | ------------------------------- | -------------------- |
 | `viewer`   | `Object` |                                 | 初始化Cesium场景的`viewer` |
 | `fileName` | `String` | `Scene-${new Date().getTime()}` | 导出的文件名               |
+| `fileType` | `String` | `png` | 导出的文件类型               |
 
 ```javascript
 import { exportSceneAsImage } from 'cesium-plugins'

@@ -4,7 +4,7 @@
 
 在线示例：[Cesium3DTilesLoader](https://syzdev.cn/cesium-plugins/example/Cesium3DTilesLoader.html)
 
-![Cesium3DTilesLoader](/screenshot/Cesium3DTilesLoader.png)
+![Cesium3DTilesLoader](/cesium-plugins-docs/screenshot/Cesium3DTilesLoader.png)
 
 ## `constructor(Cesium, viewer)`
 

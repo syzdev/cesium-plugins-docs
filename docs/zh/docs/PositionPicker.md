@@ -4,7 +4,7 @@
 
 在线示例：[PositionPicker](https://syzdev.cn/cesium-plugins/example/PositionPicker.html)（在浏览器控制台查看输出）
 
-![PositionPicker](/screenshot/PositionPicker.png)
+![PositionPicker](/cesium-plugins-docs/screenshot/PositionPicker.png)
 
 ## `constructor(Cesium, viewer)`
 

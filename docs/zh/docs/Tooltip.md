@@ -4,7 +4,7 @@
 
 在线示例：[Tooltip](https://syzdev.cn/cesium-plugins/example/Tooltip.html)
 
-![Tooltip](/screenshot/Tooltip.png)
+![Tooltip](/cesium-plugins-docs/screenshot/Tooltip.png)
 
 ## `constructor(Cesium, viewer, msg, tooltipOpts)`
 

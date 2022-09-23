@@ -4,7 +4,7 @@ Plugin for creating tooltip that follow mouse movement.
 
 Live Demo: [Tooltip](https://syzdev.cn/cesium-plugins/example/Tooltip.html)
 
-![Tooltip](/screenshot/Tooltip.png)
+![Tooltip](/cesium-plugins-docs/screenshot/Tooltip.png)
 
 ## `constructor(Cesium, viewer, msg, tooltipOpts)`
 

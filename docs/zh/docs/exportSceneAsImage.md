@@ -4,7 +4,7 @@
 
 在线示例：[exportSceneAsImage](https://syzdev.cn/cesium-plugins/example/exportSceneAsImage.html)
 
-![exportSceneAsImage](/screenshot/exportSceneAsImage.png)
+![exportSceneAsImage](/cesium-plugins-docs/screenshot/exportSceneAsImage.png)
 
 | 名称         | 类型       | 默认值                             | 描述                   |
 | ---------- | -------- | ------------------------------- | -------------------- |

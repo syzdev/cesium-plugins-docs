@@ -4,7 +4,7 @@ Function used to export the scene as an image (.png).
 
 Live Demo: [exportSceneAsImage](https://syzdev.cn/cesium-plugins/example/exportSceneAsImage.html)
 
-![exportSceneAsImage](/screenshot/exportSceneAsImage.png)
+![exportSceneAsImage](/cesium-plugins-docs/screenshot/exportSceneAsImage.png)
 
 | Name       | Type     | Default                         | Description                         |
 | ---------- | -------- | ------------------------------- | ----------------------------------- |

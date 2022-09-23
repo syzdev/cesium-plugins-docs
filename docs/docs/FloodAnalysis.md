@@ -11,7 +11,7 @@ Live Demo: [FloodAnalysis](https://syzdev.cn/cesium-plugins/example/FloodAnalysi
 > viewer.scene.globe.depthTestAgainstTerrain = true
 > ```
 
-![FloodAnalysis](/screenshot/FloodAnalysis.png)
+![FloodAnalysis](/cesium-plugins-docs/screenshot/FloodAnalysis.png)
 
 ## `constructor(Cesium, viewer, pos, floodOpts)`
 

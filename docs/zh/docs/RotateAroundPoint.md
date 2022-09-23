@@ -4,7 +4,7 @@
 
 在线示例：[RotateAroundPoint](https://syzdev.cn/cesium-plugins/example/RotateAroundPoint.html)
 
-![RotateAroundPoint](/screenshot/RotateAroundPoint.png)
+![RotateAroundPoint](/cesium-plugins-docs/screenshot/RotateAroundPoint.png)
 
 ## `constructor(Cesium, viewer, rotateOpts)`
 

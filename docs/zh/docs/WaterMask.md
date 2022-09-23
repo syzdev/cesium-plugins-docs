@@ -4,7 +4,7 @@
 
 在线示例：[WaterMask](https://syzdev.cn/cesium-plugins/example/WaterMask.html)
 
-![WaterMask](/screenshot/WaterMask.png)
+![WaterMask](/cesium-plugins-docs/screenshot/WaterMask.png)
 
 ## `constructor(Cesium, viewer, normalMapUrl, waterMaskOpts)`
 

@@ -4,6 +4,8 @@ Plugin for left mouse click to pick up longitude, latitude, and height.
 
 Live Demo: [PositionPicker](https://syzdev.cn/cesium-plugins/example/PositionPicker.html) (View the output in the browser console.)
 
+![PositionPicker](/screenshot/PositionPicker.png)
+
 ## `constructor(Cesium, viewer)`
 
 Constructor, used to initialize the instance object of `PositionPicker`.

@@ -11,6 +11,8 @@
 > viewer.scene.globe.depthTestAgainstTerrain = true
 > ```
 
+![FloodAnalysis](/screenshot/FloodAnalysis.png)
+
 ## `constructor(Cesium, viewer, pos, floodOpts)`
 
 构造函数，用于初始化`FloodAnalysis`实例对象。

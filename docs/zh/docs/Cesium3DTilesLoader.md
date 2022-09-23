@@ -4,6 +4,8 @@
 
 在线示例：[Cesium3DTilesLoader](https://syzdev.cn/cesium-plugins/example/Cesium3DTilesLoader.html)
 
+![Cesium3DTilesLoader](/screenshot/Cesium3DTilesLoader.png)
+
 ## `constructor(Cesium, viewer)`
 
 构造函数，用于初始化`Cesium3DTilesLoader`实例对象。

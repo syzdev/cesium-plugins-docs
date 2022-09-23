@@ -4,6 +4,8 @@
 
 在线示例：[WaterMask](https://syzdev.cn/cesium-plugins/example/WaterMask.html)
 
+![WaterMask](/screenshot/WaterMask.png)
+
 ## `constructor(Cesium, viewer, normalMapUrl, waterMaskOpts)`
 
 构造函数，用于初始化`WaterMask`实例对象。

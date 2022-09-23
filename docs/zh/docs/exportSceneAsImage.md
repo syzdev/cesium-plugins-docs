@@ -4,6 +4,8 @@
 
 在线示例：[exportSceneAsImage](https://syzdev.cn/cesium-plugins/example/exportSceneAsImage.html)
 
+![exportSceneAsImage](/screenshot/exportSceneAsImage.png)
+
 | 名称         | 类型       | 默认值                             | 描述                   |
 | ---------- | -------- | ------------------------------- | -------------------- |
 | `viewer`   | `Object` |                                 | 初始化Cesium场景的`viewer` |

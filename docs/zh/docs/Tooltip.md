@@ -4,6 +4,8 @@
 
 在线示例：[Tooltip](https://syzdev.cn/cesium-plugins/example/Tooltip.html)
 
+![Tooltip](/screenshot/Tooltip.png)
+
 ## `constructor(Cesium, viewer, msg, tooltipOpts)`
 
 构造函数，用于初始化`Tooltip`实例对象。

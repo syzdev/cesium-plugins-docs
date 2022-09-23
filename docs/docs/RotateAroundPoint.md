@@ -4,6 +4,8 @@ camera rotation around a point.
 
 Live Demo: [RotateAroundPoint](https://syzdev.cn/cesium-plugins/example/RotateAroundPoint.html)
 
+![RotateAroundPoint](/screenshot/RotateAroundPoint.png)
+
 ## `constructor(Cesium, viewer, rotateOpts)`
 
 Constructor, used to initialize the instance object of `RotateAroundPoint`.

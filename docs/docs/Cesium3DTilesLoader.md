@@ -4,6 +4,8 @@ Plugin for loading and configuring 3DTiles.
 
 Live Demo: [Cesium3DTilesLoader](https://syzdev.cn/cesium-plugins/example/Cesium3DTilesLoader.html)
 
+![Cesium3DTilesLoader](/screenshot/Cesium3DTilesLoader.png)
+
 ## `constructor(Cesium, viewer)`
 
 Constructor, used to initialize the instance object of `Cesium3DTilesLoader`.

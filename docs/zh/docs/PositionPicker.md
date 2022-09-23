@@ -4,6 +4,8 @@
 
 在线示例：[PositionPicker](https://syzdev.cn/cesium-plugins/example/PositionPicker.html)（在浏览器控制台查看输出）
 
+![PositionPicker](/screenshot/PositionPicker.png)
+
 ## `constructor(Cesium, viewer)`
 
 构造函数，用于初始化`PositionPicker`实例对象。

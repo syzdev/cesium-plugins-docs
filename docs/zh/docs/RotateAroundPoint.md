@@ -4,6 +4,8 @@
 
 在线示例：[RotateAroundPoint](https://syzdev.cn/cesium-plugins/example/RotateAroundPoint.html)
 
+![RotateAroundPoint](/screenshot/RotateAroundPoint.png)
+
 ## `constructor(Cesium, viewer, rotateOpts)`
 
 构造函数，用于初始化`RotateAroundPoint`实例对象。

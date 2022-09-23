@@ -11,6 +11,8 @@ Live Demo: [FloodAnalysis](https://syzdev.cn/cesium-plugins/example/FloodAnalysi
 > viewer.scene.globe.depthTestAgainstTerrain = true
 > ```
 
+![FloodAnalysis](/screenshot/FloodAnalysis.png)
+
 ## `constructor(Cesium, viewer, pos, floodOpts)`
 
 Constructor, used to initialize the instance object of `FloodAnalysis`.

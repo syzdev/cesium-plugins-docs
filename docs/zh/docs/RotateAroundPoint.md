@@ -17,7 +17,7 @@
 | `rotateOpts` | `Object` | （见下文） | 与相机绕点旋转有关的配置项，如相机绕点旋转的位置，旋转速率和相机和旋转点的距离 |
 
 ```javascript
-import { RotateAroundPoint} from 'cesium-plugins'
+import { RotateAroundPoint } from 'cesium-plugins'
 const rotate = new RotateAroundPoint(Cesium, viewer, rotateOpts)
 ```
 

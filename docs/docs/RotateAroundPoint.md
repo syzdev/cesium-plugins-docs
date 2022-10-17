@@ -17,7 +17,7 @@ Constructor, used to initialize the instance object of `RotateAroundPoint`.
 | `rotateOpts` | `Object` | (See below) | Configuration related to the camera rotation around the point, such as the position of the camera rotation around the point, the rotation rate, and the distance between the camera and the rotation point |
 
 ```javascript
-import { RotateAroundPoint} from 'cesium-plugins'
+import { RotateAroundPoint } from 'cesium-plugins'
 const rotate = new RotateAroundPoint(Cesium, viewer, rotateOpts)
 ```
 

@@ -25,7 +25,7 @@
 | `floodOpts` | `Object` | （见下文） | 与floodOpts有关的配置项，如初始水位高度，目标水位高度，水位上升速度，水的颜色等。 |
 
 ```javascript
-import { PositionPicker } from 'cesium-plugins'
+import { FloodAnalysis } from 'cesium-plugins'
 const flood = new FloodAnalysis(Cesium, viewer, pos, floodOpts)
 ```
 

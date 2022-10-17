@@ -25,7 +25,7 @@ Constructor, used to initialize the instance object of `FloodAnalysis`.
 | `floodOpts` | `Object` | (See below) | Configuration related to floodopts, such as initial water level height, target water level height, water level rising speed, water color, etc. |
 
 ```javascript
-import { PositionPicker } from 'cesium-plugins'
+import { FloodAnalysis } from 'cesium-plugins'
 const flood = new FloodAnalysis(Cesium, viewer, pos, floodOpts)
 ```
 

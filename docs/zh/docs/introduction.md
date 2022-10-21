@@ -17,3 +17,5 @@
 - [RotateAroundPoint](https://syzdev.cn/cesium-plugins-docs/zh/docs/RotateAroundPoint.html)：用于相机绕点旋转的工具类。
 
 - [WaterMask](https://syzdev.cn/cesium-plugins-docs/zh/docs/WaterMask.html)：用于创建动态水面的工具类。
+
+- [HTMLOverlay](https://syzdev.cn/cesium-plugins-docs/zh/docs/HTMLOverlay.html)：用于将HTML元素放在Cesium canvas上的工具类。

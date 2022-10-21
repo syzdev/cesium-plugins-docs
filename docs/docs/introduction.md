@@ -17,3 +17,5 @@ Plugins for improving the availability of Cesium.
 - [RotateAroundPoint](https://syzdev.cn/cesium-plugins-docs/docs/RotateAroundPoint.html)：Plugin for camera rotation around a point.
 
 - [WaterMask](https://syzdev.cn/cesium-plugins-docs/docs/WaterMask.html)：Plugin for generating dynamic water surface.
+
+- [HTMLOverlay](https://syzdev.cn/cesium-plugins-docs/docs/HTMLOverlay.html)：Plugin for placing an HTML element on top of the Cesium canvas.

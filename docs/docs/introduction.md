@@ -10,7 +10,7 @@ Plugins for improving the availability of Cesium.
 
 - [Tooltip](https://syzdev.cn/cesium-plugins-docs/docs/Tooltip.html)：Plugin for creating tooltip that follow mouse movement.
 
-- [exportSceneAsImage](https://syzdev.cn/cesium-plugins-docs/docs/exportSceneAsImage.html)：Function used to export the scene as an image (.png).
+- [exportSceneAsImage](https://syzdev.cn/cesium-plugins-docs/docs/exportSceneAsImage.html)：Function used to export the scene as an image.
 
 - [FloodAnalysis](https://syzdev.cn/cesium-plugins-docs/docs/FloodAnalysis.html)：Plugin for simulating flood analysis.
 
